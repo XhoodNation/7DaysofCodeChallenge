@@ -1,2 +1,2 @@
 # 7DaysofCodeChallenge
-This is my project for the ALC with Google Android Developer Track
+This is the apk file of my project
